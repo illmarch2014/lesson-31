@@ -6,7 +6,7 @@
 }
 
 body {
-	background-color: cadetblue;
+	background-color: rgb(43, 69, 185);
 	height: 100vh;
 	display: flex;
 	justify-content: center;
@@ -14,7 +14,7 @@ body {
 }
 
 .card {
-	background-color: white;
+	background-color: rgb(255, 255, 255);
 	border-radius: 12px;
 	overflow: hidden;
 }
