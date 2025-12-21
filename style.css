@@ -1,0 +1,9 @@
+span {
+  font-weight: 600;
+}
+
+label {
+  display: flex;
+  justify-content: space-between; 
+ 
+ }
