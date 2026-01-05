@@ -1,0 +1,18 @@
+.title  {
+   color: chocolate;
+   background-color: black;
+   margin: 12px;
+   padding: 23px;
+}
+h2 {
+    color: red;
+    background-color: green;
+    margin: 12px;
+    padding: 23px;
+}
+p {
+    color: blue;
+    background-color: yellow;
+    margin: 12px;
+    padding: 23px;
+}
